@@ -4,7 +4,7 @@
   "description": "a sample project for getting started with react",
   "version": "0.0.1",
   "scripts": {
-    "prestart" : "bower install",
+    "prestart": "bower install",
     "start": "http-server '-p 5000'"
   },
   "dependencies": {
